@@ -39,7 +39,7 @@ Before installing CellRex, please ensure your system meets the following require
 |------------------|---------|--------|-------|
 | **Linux Ubuntu** | 22.x , 24.x| ✅ **Tested & Working** | Recommended for production |
 | **macOS** | 14.x , 15.x | ✅ **Tested & Working** | Development environment |
-| **Windows** | 10, 11 | ⚠️ **Not Tested** | Should work but requires verification |
+| **Windows** | 10 | ✅ **Tested & Working** | - |
 
 ## Client Web Browsers (Streamlit Frontend)
 
