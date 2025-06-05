@@ -2,7 +2,7 @@
 title: Installation
 layout: page
 nav_enabled: true
-nav_order: 4
+nav_order: 5
 last_modified_date: 28-05-2025
 ---
 <style>
